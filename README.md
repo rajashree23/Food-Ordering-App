@@ -6,7 +6,7 @@ Food Ordering web app created using **React, useContext and useReducer!**
 - npm start
 
 # Live project
-
+https://food-ordering-webapp.netlify.app/
 
 
 ### Things I learnt
